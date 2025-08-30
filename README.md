@@ -13,7 +13,7 @@
 </div>
 </br>
 <div align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimantaslimba&hide=shaderlab,hlsl,css,html,scss,c" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimantaslimba&hide=shaderlab,hlsl,css,html,scss" />
 </div>
 <hr>
 <div>
